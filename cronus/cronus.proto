@@ -1,0 +1,14 @@
+// By Eli Saado, see ../LICENSE
+
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.elisaado.cronus";
+option java_outer_classname = "Cronus";
+
+package cronus;
+
+// The whole thing, next time seperated?
+service Cronus {
+
+}
